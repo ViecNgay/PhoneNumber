@@ -1,7 +1,7 @@
 {
     "name": "viecngay/phonenumber",
-    "description": ":description",
-    "license": "https://www.topcv.vn/",
+    "description": "Chuẩn hóa số điện thoại, convert số điện thoại 11 số về 10 số",
+    "license": "MIT",
     "authors": [
         {
             "name": "Quyet Tran",
